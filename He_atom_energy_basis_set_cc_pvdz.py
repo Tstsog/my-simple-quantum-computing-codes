@@ -55,7 +55,7 @@ first_excited_state_energy = eigs[1]
 
 
 ###
-E0 = print(ground_state_energy)        # E0 = -2.8875948310909445 vs -2.887595 = FCI
+E0 = print(ground_state_energy)        # E0 = -2.8875948310909445 vs -2.887595 = FCI [3]
 #
 E1 = print(first_excited_state_energy) # E1 = -1.993623337726936  
 ###
