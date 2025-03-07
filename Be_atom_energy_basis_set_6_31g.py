@@ -6,9 +6,6 @@
 #%       [2] https://quantumai.google/openfermion/tutorials/intro_to_openfermion
 #%       [3] https://cccbdb.nist.gov/energy2x.asp
 #%
-#% Refs: [1] https://github.com/quantumlib/OpenFermion-PySCF 
-#%       [2] https://quantumai.google/openfermion/tutorials/intro_to_openfermion
-#%
 #% Written by Tsogbayar Tsednee (PhD)
 #%
 #% Email: tsog215@gmail.com
