@@ -1,5 +1,5 @@
 #% This python code computes the energies for ground and first excited states for helium atom using quantum computing [1, 2]
-#% and the 6-31G basis set. Atomic units are used in the calculation, and the ground state energy is compared with that from 
+#% and the cc-pVDZ basis set. Atomic units are used in the calculation, and the ground state energy is compared with that from 
 #% the full configuration interaction (FCI) [3].
 #%
 #% Refs: [1] https://github.com/quantumlib/OpenFermion-PySCF
